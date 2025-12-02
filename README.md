@@ -5,6 +5,12 @@ GoPlanner is a web-based travel planning platform designed to help users discove
 This project was developed as part of a university team collaboration. My main responsibilities include front-end feature development, UI optimisation, and API integration.
 
 ---
+## 🌐 Live Demo
+https://go-planner.vercel.app/
+
+You can access the deployed version of the project here.  
+
+
 
 ## ✨ Features
 
