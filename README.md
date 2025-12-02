@@ -68,9 +68,24 @@ This project was developed as part of a university team collaboration. My main r
 
 ---
 
-## 📸 Screenshots (Optional)
-> Add images here later using:  
-> `![description](./images/filename.png)`
+## 📸 Screenshots
+### 🏠 Homepage
+![Homepage](./photos/homepage.webp)
+
+### 🔍 Search and Filtering
+![Search and Filtering](./photos/search_mel.png)
+
+### ⭐ Information
+![Information](./photos/information.png)
+
+### ⏳ Trip Planner
+![Planner](./photos/planner.webp)
+
+### 💬 Login
+![Login](./photos/login.png)
+
+### 🗺️ Map
+![Map](./photos/map.webp)
 
 ---
 
